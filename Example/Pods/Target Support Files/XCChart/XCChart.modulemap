@@ -1,0 +1,6 @@
+framework module XCChart {
+  umbrella header "XCChart-umbrella.h"
+
+  export *
+  module * { export * }
+}

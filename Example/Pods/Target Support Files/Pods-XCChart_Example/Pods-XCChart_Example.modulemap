@@ -1,0 +1,6 @@
+framework module Pods_XCChart_Example {
+  umbrella header "Pods-XCChart_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

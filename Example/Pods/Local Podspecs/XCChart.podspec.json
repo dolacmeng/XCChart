@@ -1,0 +1,22 @@
+{
+  "name": "XCChart",
+  "version": "1.1.1",
+  "summary": "简约的图表XCChart.",
+  "description": "简约的图表XCChart,柱状图、柱状对比图、折线图等",
+  "homepage": "https://github.com/dolacmeng/XCChart",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "JackXu": "151611438@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/dolacmeng/XCChart.git",
+    "tag": "1.1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "XCChart/Classes/**/*"
+}

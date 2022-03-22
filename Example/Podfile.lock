@@ -1,0 +1,16 @@
+PODS:
+  - XCChart (1.1.1)
+
+DEPENDENCIES:
+  - XCChart (from `../`)
+
+EXTERNAL SOURCES:
+  XCChart:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XCChart: 647e1e299597b2da60fd0b1aa4a0cb64fe9d08df
+
+PODFILE CHECKSUM: f99246304faf11791f356d13b67ebd4006d264ec
+
+COCOAPODS: 1.11.2
