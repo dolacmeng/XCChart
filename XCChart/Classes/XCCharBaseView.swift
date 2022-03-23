@@ -208,7 +208,7 @@ extension XCCharBaseView {
     }
     
     /// 显示信息气泡
-    func showBubble () {
+    public func showBubble () {
         self.bubble?.removeFromSuperview()
         self.bubble = nil
         if let bubble = self.charDatasource?.getSelectedBubbleView(index:selectedIndex) {
@@ -231,7 +231,7 @@ extension XCCharBaseView {
     }
     
     // 隐藏信息气泡
-    func hideBubble() {
+    public func hideBubble() {
         self.bubble?.removeFromSuperview()
         self.bubble = nil
         selectedIndex = -1

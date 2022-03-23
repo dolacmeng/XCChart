@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2E0934916BF0CA2582C3B3FD83D4A721 /* XCBarCharView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16159A3D245F310DC8E6A709BB650B3F /* XCBarCharView.swift */; };
 		2E3C18AF044137E237EA224D7A0E2005 /* XCCharSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0326D07BCCDE88C4CB34919A78269A6A /* XCCharSection.swift */; };
 		56C7669736D73FDBA3AC77CE5B2AB9A0 /* XCSectionsBarCharView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B1F4B239FF2FA02D433B5742BD67283 /* XCSectionsBarCharView.swift */; };
 		56F6E6E77B9C4BD417731E1801D03280 /* XCSegmentCharView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A43147FC93E6EA8AAD79299055BEC4DF /* XCSegmentCharView.swift */; };
@@ -16,6 +15,7 @@
 		6EF98A690DD903E7C3690E3CDBAAAD21 /* XCLineCharView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70BDADCADDF89A1C1187EC363A6BB76B /* XCLineCharView.swift */; };
 		6F75EFE5187A420FC9A352DE09D3B5C9 /* Pods-XCChart_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9015D77467FEF72CF97A922C487B52CE /* Pods-XCChart_Example-dummy.m */; };
 		74F42F2B3CD9BE8A2B519DFF59F29926 /* Pods-XCChart_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7E6235F03AE271D9711400090540325F /* Pods-XCChart_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7ED1E56727EAC04C0008A06C /* XCBarCharView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ED1E56627EAC04C0008A06C /* XCBarCharView.swift */; };
 		93FC41A6C5728ECC9A406C36D6B3E3A2 /* XCChart-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5454A8C875979D337B5D887B92809F07 /* XCChart-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A313C042089CC524D61F2D1B71B5CAE1 /* XCLineLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFE3E18C228D6C4AD8BBF488E2DCCCE3 /* XCLineLayer.swift */; };
 		A5229288440C64E399B4C18802D85C48 /* XCChart-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = FDB8F3D230160961DE97698C67892C0A /* XCChart-dummy.m */; };
@@ -51,7 +51,6 @@
 		07B3ED4655F77E55C71285FB22A96929 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		0A8DD0764C4A1E26B4828032CE76035C /* Pods-XCChart_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XCChart_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		0FC6F36D973B09DD39C999402276B8D4 /* XCChart.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = XCChart.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		16159A3D245F310DC8E6A709BB650B3F /* XCBarCharView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = XCBarCharView.swift; sourceTree = "<group>"; };
 		161F96613D6A572FE622B0D806C55349 /* XCChart */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = XCChart; path = XCChart.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A4826E108F9307100AE209E1FDD82F7 /* XCCompareBarCharView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = XCCompareBarCharView.swift; path = XCChart/Classes/XCCompareBarCharView.swift; sourceTree = "<group>"; };
 		2B1F4B239FF2FA02D433B5742BD67283 /* XCSectionsBarCharView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = XCSectionsBarCharView.swift; path = XCChart/Classes/XCSectionsBarCharView.swift; sourceTree = "<group>"; };
@@ -70,6 +69,7 @@
 		729E6AF5CBF970CE9BD521FC16B2C221 /* XCCharSetting.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = XCCharSetting.swift; path = XCChart/Classes/XCCharSetting.swift; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		7E6235F03AE271D9711400090540325F /* Pods-XCChart_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-XCChart_Tests-umbrella.h"; sourceTree = "<group>"; };
+		7ED1E56627EAC04C0008A06C /* XCBarCharView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = XCBarCharView.swift; path = XCChart/Classes/XCBarCharView.swift; sourceTree = "<group>"; };
 		8AA8D049BE930223F91FB8DAE289CB65 /* Pods-XCChart_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XCChart_Example-Info.plist"; sourceTree = "<group>"; };
 		9015D77467FEF72CF97A922C487B52CE /* Pods-XCChart_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-XCChart_Example-dummy.m"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
@@ -199,7 +199,7 @@
 		7E7BA16E77ECFB6DFF45054B891F070B /* XCChart */ = {
 			isa = PBXGroup;
 			children = (
-				16159A3D245F310DC8E6A709BB650B3F /* XCBarCharView.swift */,
+				7ED1E56627EAC04C0008A06C /* XCBarCharView.swift */,
 				6A3E3B33F9AB20832DF841F095BB2B8A /* XCCharBaseView.swift */,
 				0326D07BCCDE88C4CB34919A78269A6A /* XCCharSection.swift */,
 				EAEDA1E2C4717CB346471B3F3264DB9F /* XCCharSegmentLayer.swift */,
@@ -397,10 +397,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2E0934916BF0CA2582C3B3FD83D4A721 /* XCBarCharView.swift in Sources */,
 				ACC35D06103FEBFEA7F88906F137ACA3 /* XCCharBaseView.swift in Sources */,
 				2E3C18AF044137E237EA224D7A0E2005 /* XCCharSection.swift in Sources */,
 				E901755C4C0CC2A5568CC512A1962130 /* XCCharSegmentLayer.swift in Sources */,
+				7ED1E56727EAC04C0008A06C /* XCBarCharView.swift in Sources */,
 				68950B90A5A785F5DDAFC068BCB758A7 /* XCCharSetting.swift in Sources */,
 				A5229288440C64E399B4C18802D85C48 /* XCChart-dummy.m in Sources */,
 				DA16789EDD0918114A0239D6C5E499DA /* XCCompareBarCharView.swift in Sources */,
